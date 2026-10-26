@@ -6,3 +6,4 @@ This is commit-5 from main
 commit-6 from main
 This to be commit-7 from main
 commit-8 from main
+20261031 - created this text by changing commit-1 of feat, with git rebase -i HEAD~8 option and amending the commit, which exists
