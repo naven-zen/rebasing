@@ -2,7 +2,13 @@
 commit-2 from main
 commit-3 from main
 commit-4 from main
+*********
 This is commit-5 from main
 commit-6 from main
 This to be commit-7 from main
+=======kept above both lines to resolve merge conflict
+commiting-5 from main
+commit-6 from main
+commiting-7 from main
+**********
 commit-8 from main
