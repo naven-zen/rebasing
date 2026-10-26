@@ -1,3 +1,5 @@
 20261031 - created this text by changing commit-1 of feat, with git rebase -i HEAD~8 option and amending the commit, which exists
 20261026 - 
 commit-2 from feat
+commit-3 from feat
+commit-4 from feat
