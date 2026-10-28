@@ -2,8 +2,15 @@
 commit-2 from main
 commit-3 from main
 commit-4 from main
+*********
 This is commit-5 from main
 commit-6 from main
 This to be commit-7 from main
 commit-8 from main
 20261031 - created this text by changing commit-1 of feat, with git rebase -i HEAD~8 option and amending the commit, which exists
+=======kept above both lines to resolve merge conflict
+commiting-5 from main
+commit-6 from main
+commiting-7 from main
+**********
+commit-8 from main
